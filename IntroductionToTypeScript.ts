@@ -1,3 +1,4 @@
+console.log("===Pengenalan Konsep OOP dalam TypeScript===");
 //enskapsulasi
 class Motor{
     private nomorMesin : string;
